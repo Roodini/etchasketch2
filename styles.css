@@ -1,0 +1,10 @@
+#container {
+	width: 960px;
+	display: flex;
+	flex-wrap: wrap;
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+
+
+}
